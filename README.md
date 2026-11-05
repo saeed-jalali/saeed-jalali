@@ -17,8 +17,19 @@
 
 ## 🦇 Tech Stack
 
+## 🦇 Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,azure,html,css,js,git,github,visualstudio,vscode&perline=11" />
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /></a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="SQL Server" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>
 </div>
 
 ## 👻 Connect With Me
