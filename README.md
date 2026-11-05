@@ -15,14 +15,13 @@
 - 🌱 Currently learning: Clean Architecture, Entity Framework Core, Web APIs
 - 📫 Open to collaboration and internship opportunities
 
-## 🦇 Tech Stack
 
 ## 🦇 Tech Stack
 
 <div align="center">
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /></a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="SQL Server" /></a>
+  
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
