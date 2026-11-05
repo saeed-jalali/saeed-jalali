@@ -34,9 +34,11 @@
 ## 👻 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/saeed-jalali"><img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=FF7518" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FF7518?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-6A1B9A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/saeed-jalali"><img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=FF7518" alt="GitHub" /></a>
+  <a href="mailto:sir.jalali.saeed@gmail.com"><img src="https://img.shields.io/badge/Email-FF7518?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/saeed-jalali-58476a448/"><img src="https://img.shields.io/badge/LinkedIn-6A1B9A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/its.titab/"><img src="https://img.shields.io/badge/Instagram-FF7518?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.sa-ja.ir"><img src="https://img.shields.io/badge/Website-1A0B2E?style=for-the-badge&logo=googlechrome&logoColor=FF7518" alt="Website" /></a>
 </div>
 
 <!-- فوتر انیمیشنی -->
